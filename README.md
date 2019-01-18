@@ -1,0 +1,2 @@
+# QRCodeReaderWithAVCaptureMetadataOutput
+QRCodeReader Sample app using AVCaptureMetadataOutput
